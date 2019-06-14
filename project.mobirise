@@ -97,7 +97,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/HVauLvae17s",
+              "src": "https://youtu.be/xO30BNwaIso",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false
@@ -155,7 +155,7 @@
               "src": "@PROJECT_PATH@/assets/images/desert.jpg"
             },
             "video": {
-              "src": "https://youtu.be/b2Xsw-8vZ3Q",
+              "src": "https://youtu.be/HVauLvae17s",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false,
